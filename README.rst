@@ -13,7 +13,7 @@ Do not forget to read the documentation_.
    :target: https://github.com/georgemarshall/django-cryptography/actions/workflows/main.yml
    :alt: GitHub Workflow Status (branch)
 .. image:: https://img.shields.io/codecov/c/github/georgemarshall/django-cryptography/stable/1.1.x
-   :target: https://codecov.io/gh/georgemarshall/django-cryptography/branch/stable%2F1.1.x
+   :target: https://app.codecov.io/gh/georgemarshall/django-cryptography/branch/stable%2F1.1.x
    :alt: Codecov branch
 .. END HIDDEN
 
